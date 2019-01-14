@@ -1,3 +1,15 @@
+/* 
+Convert The below Jquery Sample To React Component.
+
+$("#menu-toggle").click(function(e) {
+ e.preventDefault();
+ $("#wrapper").toggleClass("toggled");
+});
+
+*/
+
+
+
 import React, { Component } from 'react';
 
 class Test extends Component {
