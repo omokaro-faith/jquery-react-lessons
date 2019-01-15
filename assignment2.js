@@ -12,7 +12,7 @@ Convert The below Jquery Sample To React Component.
 
 import React, { Component, Fragment } from 'react';
 
-class Test extends Component {
+class Assignment2 extends Component {
   constructor() {
     super();
     this.state = {
